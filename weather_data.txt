@@ -1,0 +1,2 @@
+Timestamp	Temperature (°C)	Rain Presence
+Error: Temperature or rain data not found on the webpage.
